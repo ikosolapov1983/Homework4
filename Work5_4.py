@@ -1,5 +1,6 @@
 # Наследование класса от родительского класса
 
+
 class Person:
     common_properties = {"species": "human"}
 

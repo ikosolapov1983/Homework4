@@ -1,5 +1,6 @@
 # вызов родительских аргументов без повтора
 
+
 from Work5_5 import Employee
 
 class TEmployee(Employee):

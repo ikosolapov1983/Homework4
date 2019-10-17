@@ -1,5 +1,6 @@
 # класс с вызовом __init__ - конструктора свойств объекта, примеры функций внутри класса
 
+
 class Person:
     common_properties = {"species": "human"}
 

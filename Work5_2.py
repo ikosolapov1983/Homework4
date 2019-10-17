@@ -1,5 +1,6 @@
 # класс с вызовом self
 
+
 class Person:
     common_properties = {"species": "human"}
     def set_name(self, value):

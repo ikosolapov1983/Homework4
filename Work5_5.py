@@ -1,5 +1,6 @@
 # вызов родительского конструктора
 
+
 from Work5_3 import Person
 
 class Employee(Person):
